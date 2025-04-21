@@ -7,3 +7,8 @@ Features:
 3) Update employee information (PUT)
 4) Delete employees (DELETE)
 5) Partially update employee data (PATCH)
+
+Annotations Used:
+@Entity, @Table, @Column, @Id, @GeneratedValue, @Service, @Autowired, @Transactional, @RequestMapping, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @PatchMapping, @RequestBody.
+
+
