@@ -8,7 +8,7 @@ Features:
 4) Delete employees (DELETE)
 5) Partially update employee data (PATCH)
 
-Annotations Used:
+Annotations Used : 
 @Entity, @Table, @Column, @Id, @GeneratedValue, @Service, @Autowired, @Transactional, @RequestMapping, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @PatchMapping, @RequestBody.
 
 
